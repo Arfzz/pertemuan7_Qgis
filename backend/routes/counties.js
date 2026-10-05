@@ -13,7 +13,7 @@ router.get("/", async (req, res) => {
                 'geometry', ST_AsGeoJSON(geom)::jsonb, 
                 'properties', jsonb_build_object(
                     'county',"county",
-                    'county_id', 'ounty_id',
+                    'county_id', "county_id",
                     'population',"total_popu",
                     'male_population', "male popul",
                     'female_population', "female pop",

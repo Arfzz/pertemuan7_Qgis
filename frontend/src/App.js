@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import Map from "./map/Map";
 import Legend from "./legend/Legend";
