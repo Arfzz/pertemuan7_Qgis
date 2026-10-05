@@ -1,0 +1,85 @@
+.dataset-selector-card {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: #ffffff;
+  padding: 12px 14px;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  min-width: 260px;
+  border: 1px solid #e2e8f0;
+}
+
+.selector-header {
+  margin-bottom: 10px;
+}
+
+.selector-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #1e293b;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.selector-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.selector-btn {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 8px 12px;
+  border: 1.5px solid #cbd5e1;
+  border-radius: 6px;
+  background: #f8fafc;
+  color: #334155;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-align: left;
+}
+
+.selector-btn:hover {
+  background: #f1f5f9;
+  border-color: #94a3b8;
+}
+
+.selector-btn:focus-visible {
+  outline: 2px solid #2563eb;
+  outline-offset: 2px;
+}
+
+.selector-btn.active {
+  background: #eff6ff;
+  border-color: #2563eb;
+  color: #1d4ed8;
+  font-weight: 600;
+}
+
+.btn-badge {
+  display: inline-block;
+  padding: 2px 6px;
+  font-size: 10px;
+  font-weight: 700;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+.btn-badge-bogor {
+  background: #dcfce7;
+  color: #15803d;
+}
+
+.btn-label {
+  flex: 1;
+}

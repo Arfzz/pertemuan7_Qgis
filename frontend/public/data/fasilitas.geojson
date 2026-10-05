@@ -1,0 +1,860 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Sekolah Vokasi IPB",
+        "jenis": "Pendidikan",
+        "keterangan": "Kampus pendidikan vokasi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.806,
+          -6.584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Panti Asuhan PYI Heulang",
+        "jenis": "Ruang publik",
+        "keterangan": "Lembaga kesejahteraan sosial anak di area Heulang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8005,
+          -6.5752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Bogor",
+        "jenis": "Transportasi",
+        "keterangan": "Stasiun kereta api utama di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79,
+          -6.5955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kebun Raya Bogor",
+        "jenis": "Ruang publik",
+        "keterangan": "Kawasan konservasi tumbuhan dan wisata edukasi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799,
+          -6.602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Balai Kota Bogor",
+        "jenis": "Pemerintahan",
+        "keterangan": "Pusat pemerintahan dan administrasi Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7971,
+          -6.5951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS PMI Bogor",
+        "jenis": "Kesehatan",
+        "keterangan": "Rumah sakit rujukan di pusat kota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8042,
+          -6.6015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Raya Bogor",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Pusat kegiatan ibadah umat Islam di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8105,
+          -6.6041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SDN Kayumanis 1",
+        "jenis": "Pendidikan",
+        "keterangan": "Fasilitas pendidikan resmi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.768994,
+          -6.530175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMA PGRI 4",
+        "jenis": "Pendidikan",
+        "keterangan": "Fasilitas pendidikan resmi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807485,
+          -6.5727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMAN 7 Bogor",
+        "jenis": "Pendidikan",
+        "keterangan": "Jl. Palupuh Bantarjati No.7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.814405,
+          -6.578061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SD Regina Pacis Bogor",
+        "jenis": "Pendidikan",
+        "keterangan": "Jalan Ir. Juanda No.2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796743,
+          -6.59278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMP Regina Pacis Bogor",
+        "jenis": "Pendidikan",
+        "keterangan": "Fasilitas pendidikan resmi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796507,
+          -6.59213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMU Regina Pacis Bogor",
+        "jenis": "Pendidikan",
+        "keterangan": "Fasilitas pendidikan resmi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796042,
+          -6.592149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "SMPN 11",
+        "jenis": "Pendidikan",
+        "keterangan": "Fasilitas pendidikan resmi di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.799395,
+          -6.588588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Praktek dokter umum pagi",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.798727,
+          -6.550112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Siloam Hospitals Bogor",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804934,
+          -6.595589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Puskesmas Pembantu",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.821958,
+          -6.548094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klinik Ibnu Sina",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.791605,
+          -6.593118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Laboratorium Klinik Medisina",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.79419,
+          -6.588233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSKIA Sawojajar",
+        "jenis": "Kesehatan",
+        "keterangan": "Layanan kesehatan masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.793621,
+          -6.58831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Cilebut",
+        "jenis": "Transportasi",
+        "keterangan": "Fasilitas transportasi umum di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800688,
+          -6.530724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Batutulis",
+        "jenis": "Transportasi",
+        "keterangan": "Fasilitas transportasi umum di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80974,
+          -6.626143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bogor",
+        "jenis": "Transportasi",
+        "keterangan": "Fasilitas transportasi umum di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790769,
+          -6.594289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Bogor Paledang",
+        "jenis": "Transportasi",
+        "keterangan": "Fasilitas transportasi umum di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790649,
+          -6.597812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Peranginan",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang publik dan ruang terbuka hijau Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.797145,
+          -6.587176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Bungur Raya",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang publik dan ruang terbuka hijau Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.781174,
+          -6.57207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Bungur V",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang publik dan ruang terbuka hijau Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.781816,
+          -6.572608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "KP. Lebak LPTI Ciparigi",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang publik dan ruang terbuka hijau Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.817928,
+          -6.549802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Gazebo Taman Kota Bogor",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang publik dan ruang terbuka hijau Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800574,
+          -6.597258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kantor Kecamatan Tamansari",
+        "jenis": "Pemerintahan",
+        "keterangan": "Instansi pelayanan publik dan pemerintahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.76561,
+          -6.64506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kantor Kelurahan Bondongan",
+        "jenis": "Pemerintahan",
+        "keterangan": "Instansi pelayanan publik dan pemerintahan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800436,
+          -6.611105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Madrasah Miftahul Jannah",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Sarana ibadah masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.803227,
+          -6.547832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid An Nur Vila Bogor Indah 3",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Sarana ibadah masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.802752,
+          -6.545298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Al Muhallilin",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Sarana ibadah masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.813096,
+          -6.601454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Al Kautsar",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Sarana ibadah masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.796456,
+          -6.559858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kapel Susteran Gembala Baik",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Jl. Pajajaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807048,
+          -6.605342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Masjid Al Hidayah",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Sarana ibadah masyarakat di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.807491,
+          -6.62521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Lapangan Sempur",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.800775,
+          -6.591655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Pajajaran Sports and Recreation Centre",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.824184,
+          -6.618128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Villa Duta Clubhouse",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.817155,
+          -6.609816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Silat Bogor",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.805198,
+          -6.609761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "LAP. BOLA",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.82799,
+          -6.634479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Sports Centre",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Prasarana olahraga dan kebugaran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.804614,
+          -6.639344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "GOR Pajajaran Bogor",
+        "jenis": "Fasilitas olahraga",
+        "keterangan": "Gelanggang Olahraga terpadu dan stadion kebanggaan Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7975,
+          -6.5794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Kencana",
+        "jenis": "Ruang publik",
+        "keterangan": "Taman peninggalan era kolonial yang rindang dan populer di Bogor Tengah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7998,
+          -6.5898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Taman Heulang",
+        "jenis": "Ruang publik",
+        "keterangan": "Taman kota terbuka dengan fasilitas joging dan ruang interaksi warga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7987,
+          -6.5721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Alun-Alun Kota Bogor",
+        "jenis": "Ruang publik",
+        "keterangan": "Ruang terbuka hijau dan interaksi publik terintegrasi di dekat Stasiun Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7908,
+          -6.596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Gereja Katedral BMV Bogor",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Gereja Katedral Katolik bersejarah di pusat Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7942,
+          -6.5978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Klenteng Hok Tek Bio (Dhanagun)",
+        "jenis": "Tempat ibadah",
+        "keterangan": "Klenteng bersejarah berusia lebih dari 300 tahun di kawasan Suryakencana"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7983,
+          -6.6026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Terminal Baranangsiang",
+        "jenis": "Transportasi",
+        "keterangan": "Terminal bus utama antarkota dan pemadu moda di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8088,
+          -6.6052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Stasiun Batutulis",
+        "jenis": "Transportasi",
+        "keterangan": "Stasiun kereta api lintas Sukabumi yang dekat dengan Prasasti Batutulis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8052,
+          -6.6231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RSUD Kota Bogor",
+        "jenis": "Kesehatan",
+        "keterangan": "Rumah sakit umum daerah milik Pemerintah Kota Bogor di Jl. Dr. Sumeru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7725,
+          -6.5822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "RS Siloam Bogor",
+        "jenis": "Kesehatan",
+        "keterangan": "Rumah sakit swasta modern di pusat komersial Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8056,
+          -6.6025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kantor DPRD Kota Bogor",
+        "jenis": "Pemerintahan",
+        "keterangan": "Gedung Dewan Perwakilan Rakyat Daerah Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8041,
+          -6.5592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Kantor Pos Bogor Djuanda",
+        "jenis": "Pemerintahan",
+        "keterangan": "Kantor pos bersejarah dan pelayanan kurir serta logistik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.7963,
+          -6.5985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Institut Pertanian Bogor (Kampus Baranangsiang)",
+        "jenis": "Pendidikan",
+        "keterangan": "Kampus riset dan pascasarjana IPB University di Baranangsiang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8066,
+          -6.6033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Universitas Pakuan",
+        "jenis": "Pendidikan",
+        "keterangan": "Perguruan tinggi swasta terkemuka di Kota Bogor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8122,
+          -6.6002
+        ]
+      }
+    }
+  ]
+}
